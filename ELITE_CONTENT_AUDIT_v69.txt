@@ -1,0 +1,13 @@
+SELECTICORE v69.1 — QUESTION BANK REPAIR AUDIT
+
+This repair build fixes known generator-template defects and improves the static Reading sample, adds per-topic Learn and Core Strategy lesson pages, and introduces the Black Swan Lab with step-by-step video-style lessons and questions.
+
+Validation completed for this build:
+- 4,200 generated Mathematical Reasoning questions across 120 generated tests checked against independent calculations for audited template families: 0 mismatches detected.
+- 4,800 generated Thinking Skills questions across 120 generated tests checked against stated constraints and answer keys: 0 mismatches detected.
+- 120 tests for each subject passed generation/quality-gate checks without runtime errors.
+- Reading generation sample: 17 groups, 38 answer parts, 38 distinct question stems per test, valid answer indices.
+- Static 400-item bank: 0 answer-index or duplicate-option structural errors after repair.
+- HTML inline JavaScript syntax check passed.
+
+Scope limitation: this is not a manual, item-by-item expert review of every possible variant in the 16,000-test generator range. The automated checks detect many formula, answer-key, option, structure and consistency issues, but do not guarantee perfection. Writing feedback remains automated practice feedback, not official NSW marking. Content is original SelectiCore practice material, not official NSW or James Ruse content.
